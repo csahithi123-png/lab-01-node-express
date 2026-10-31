@@ -62,16 +62,20 @@ Example `/about` response:
 ## Screenshots
 
 ### 🏠 Home Route — `GET /`
-![Home Route](screenshots/home.png)
+![Home Route]<img width="2880" height="1504" alt="image" src="https://github.com/user-attachments/assets/7b094920-0093-4acf-9d00-b3a79ad93c5e" />
+
 
 ### 👤 About Route — `GET /about`
-![About Route](screenshots/about.png)
+![About Route]<img width="2836" height="1152" alt="image" src="https://github.com/user-attachments/assets/5ca484e1-b2a6-4eb5-be53-59bb48499841" />
+
 
 ### 🕐 Date & Time Route — `GET /time`
-![Time Route](screenshots/time.png)
+![Time Route]<img width="2880" height="1164" alt="image" src="https://github.com/user-attachments/assets/e6ef75ee-db7a-4f0b-b59a-ca586843c849" />
+
 
 ### ❌ 404 Error — Unknown Route
-![404 Error](screenshots/404.png)
+![404 Error]<img width="2880" height="900" alt="image" src="https://github.com/user-attachments/assets/12aa8a94-0732-44b2-a59e-9fa94bb8461d" />
+
 
 ## Built-in HTTP server (Task 3)
 
