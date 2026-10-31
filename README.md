@@ -3,7 +3,7 @@
 **Name:** Ch. Sahithi  
 **Registration number:** 252U1R1062  
 **Section:** CSE-1A
-
+**live url:** https://lab-01-node-express-0r90.onrender.com
 ## Architecture
 
 The project separates the server startup, Express app configuration, and route definitions:
